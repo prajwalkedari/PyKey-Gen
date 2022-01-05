@@ -13,9 +13,9 @@ def print_key():
     key=gen_key()
     print("Key:- ",key)
 
-def check_key(Key)
+def check_key(Key):
     key=gen_key()
     if key == Key :
         return true
-    else
+    else:
         return false
