@@ -16,6 +16,6 @@ def print_key():
 def check_key(Key):
     key=gen_key()
     if key == Key :
-        return true
+        return True
     else:
-        return false
+        return False
