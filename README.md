@@ -70,7 +70,6 @@ Click on it ,<br>
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/PrajwalKedari/pykeygen)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/prajwalkedari/pykey-gen)
 
-<br>
 ## LICENSE
 [![](https://img.shields.io/github/license/prajwalkedari/pykey-gen)](https://github.com/prajwalkedari/PyKey-Gen/blob/main/LICENSE)
 ## Author 
