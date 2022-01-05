@@ -11,7 +11,7 @@
 ### Install using pip
 Frist it Need to **Install** (using Pip) <br>
 Open **CMD** and Enter Below Command
-```
+```Shell
 pip install pykey-gen
 ```
 
@@ -51,14 +51,14 @@ True
 In above Code, Where Generate a Key and stored In variable Key And ChecK The Key 
 
 **Note:-** _Every Computer Generate Same Key In Same Time _(as Per Clock)_ and If Frist Computer Generate a Key . Within a Minute . Same key Enter in Second  Computer Will Accept It_
-<br>
+<br><br>
 **Note:-** _This is An **Offline** Key Generate_
-<br>
+<br><br>
 **Can Use in :-** _Product Registration Key and It will Expired within Minute_
 
 # Also Aviable In Other Language
 
-Click on it 
+Click on it ,<br>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/prajwalkedari/Secure-Key-Gen/tree/main/Java)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/prajwalkedari/Secure-Key-Gen/tree/main/C++)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/prajwalkedari/Secure-Key-Gen/tree/main/JavaScript)
